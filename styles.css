@@ -58,9 +58,6 @@ input[type="radio"]
 {
 	width:10px;
 	height:10px;
-	position:absolute;
-	border-width: 0 3px 3px 0;
-	left:10px;
 }
 
 
